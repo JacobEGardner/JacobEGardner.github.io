@@ -8,6 +8,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jacob-gardner-10930725b/
+    - icon: 0-circle
+      text: ORCID
+      href: https://orcid.org/0000-0002-9692-2979
     - icon: envelope
       text: Email
       href: "mailto:jeg153@case.edu"  

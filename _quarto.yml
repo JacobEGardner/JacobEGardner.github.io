@@ -26,9 +26,14 @@ website:
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/jacob-gardner-10930725b/
+      - icon: 0-circle
+        aria-label: ORCID
+        href: https://orcid.org/0000-0002-9692-2979
       - icon: envelope
         aria-label: email
-        href: "mailto:jeg153@case.edu"  
+        href: "mailto:jeg153@case.edu"
+        
+  
   
   
 
