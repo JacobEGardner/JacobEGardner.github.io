@@ -2,11 +2,13 @@
 title: News & Updates
 ---
 
-## The Languages of Middle-earth
+## CAOMS - DISC 1st Joint Conference
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+I will be delivering the Keynote Address at the Cambodian Association of Oral and Maxillofacial Surgeons (CAOMS) & Dental Implant Society of Cambodia (DISC) 1st Joint Conference in Phnom Penh, Cambodia from June 13th to 14th 2024. The topic of my presentation will be “The Detection of Human Papillomavirus in Oral Squamous Cell Carcinoma.”
 
-<a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
+After the conference has concluded, I will update this page to make the slidedeck from my presentation available to view and download. 
 
-Over the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion.
+
+![](conference ad.jpg)
+
 
