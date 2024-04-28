@@ -1,9 +1,4 @@
 
-Configure git
-```{r}
-library(usethis)
-```
-
 ---
 about:
   template: jolla
