@@ -32,7 +32,7 @@ cv:
 
 ```{=html}
 <p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$Jacob Gardner CWRU CV$pdf`" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
   </a>
 </p>
@@ -41,10 +41,3 @@ cv:
 </div>
 ```
 
-
-
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
