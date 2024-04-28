@@ -22,9 +22,4 @@ My name is Jacob E. Gardner, and I'm a MD/MPH student at Case Western Reserve Un
 
 On this website, you will find a selection of my academic works, including peer-reviewed journal articles and poster presentations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. Please feel free to [contact me](mailto:jeg153@case.edu) if you have any questions or would like to discuss potential projects.
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
 
