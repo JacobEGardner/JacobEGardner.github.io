@@ -14,13 +14,15 @@ website:
     # your sub-pages
     left:
       - text: "Journal Articles"
-        href: articles/index.qmd
+        href: articles/index_article.qmd
+      - text: "Oral Presentations"
+        href: talks/index_talks.qmd
       - text: "Poster Presentations"
-        href: posters/index.qmd
+        href: posters/index_posters.qmd
       - text: "CV"
-        href: cv/index.qmd
+        href: cv/index_cv.qmd
       - text: "News and Updates"
-        href: updates/index.qmd
+        href: updates/index_updates.qmd
     
     # your social media handles
     right:

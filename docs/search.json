@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "articles/index.html",
-    "href": "articles/index.html",
+    "objectID": "articles/index_article.html",
+    "href": "articles/index_article.html",
     "title": "Peer-reviewed Journal Articles",
     "section": "",
-    "text": "Browndyke J. N., Wright M.C., …Gardner J.E., … Berger M. “Perioperative neurocognitive and functional neuroimaging trajectories in older APOE4 carriers compared with non-carriers: secondary analysis of a prospective cohort study.” British Journal of Anaesthesia. September 14, 2021. PMID: 34535274\nGiattino, C. M., Gardner J. E., Sbahi, F. M., Roberts, K. C., Cooter, M., Moretti, E., … & Brigman, B. E. “Intraoperative Frontal Alpha-Band Power Correlates with Preoperative Neurocognitive Function in Older Adults.” Frontiers in Systems Neuroscience. May 8, 2017. PMID: 28533746"
+    "text": "Gardner J.E., Eav S., Rath B., Bunpa P.…Sherertz, T. “Advancing Cancer Care Infrastructure in Cambodia: Summary of the First 100 Patients with Cervical Cancer Treated at the National Cancer Centre.” Manuscript submitted for publication, 2024.\nBrowndyke J. N., Wright M.C., …Gardner J.E., … Berger M. “Perioperative neurocognitive and functional neuroimaging trajectories in older APOE4 carriers compared with non-carriers: secondary analysis of a prospective cohort study.” British Journal of Anaesthesia. September 14, 2021. PMID: 34535274\nGiattino, C. M., Gardner J. E., Sbahi, F. M., Roberts, K. C., Cooter, M., Moretti, E., … & Brigman, B. E. “Intraoperative Frontal Alpha-Band Power Correlates with Preoperative Neurocognitive Function in Older Adults.” Frontiers in Systems Neuroscience. May 8, 2017. PMID: 28533746"
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
+    "objectID": "cv/index_cv.html",
+    "href": "cv/index_cv.html",
     "title": "Curriculum vitae",
     "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+    "text": "Download current CV"
   },
   {
     "objectID": "index.html",
@@ -21,8 +21,8 @@
     "text": "LinkedIn\n  \n  \n    \n     ORCID\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nMy name is Jacob E. Gardner, and I’m a MD/MPH student at Case Western Reserve University School of Medicine in Cleveland, Ohio. I’m set to graduate in Spring 2025, at which point I hope to match into a general surgery residency program. My professional and academic interests revolve around vaccine-preventable cancers and expanding vaccination efforts as a means to address domestic and global health disparities. To that end, I have been involved in research on human papillomavirus and cervical cancer among Cambodian women since 2018.\nOn this website, you will find a selection of my academic works, including peer-reviewed journal articles and poster presentations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. Please feel free to contact me if you have any questions or would like to discuss potential projects."
   },
   {
-    "objectID": "posters/index.html",
-    "href": "posters/index.html",
+    "objectID": "posters/index_posters.html",
+    "href": "posters/index_posters.html",
     "title": "Poster Presentations",
     "section": "",
     "text": "Gardner J.E., Eav S., Rath B., Bunpa P., Mel M., Ath V., Thou S., Berchuck A., Sherertz T. “Characteristics and Early Outcomes of the First 100 Patients with Cervical Cancer at the National Cancer Center of Cambodia,” American Radium Society 103rd Annual Meeting; Maui, HI (2021). (Poster presented by Gardner, J.E.)\nGardner J.E., Eav S., Rath B., Thou S., Yi R., Pluot M., Aun K., Phok R., Berchuck A., Sun R., Jung K., Jung J., Sherertz T. “Human Papillomavirus Infection among Cambodian Patients with Cervical Cancer,” American Radium Society 103rd Annual Meeting; Maui, HI (2021). (Poster presented by Gardner, J.E.)\nGardner J.E., Eav S., Pluot M., Bunpa P., Ngoun S., Winer R., Lin J., Hawes S., Berchuck A., Sherertz T. “HPV Subtyping of Cervical Cancer in Cambodia,” Varian Research Partnership Symposium; Chicago, IL (2019). (Poster Presented by Gardner J.E. & Bunpa P.)\nGardner J.E., Eav S., Pluot M., Winer R., Lin J., Hawes S., Berchuck A., Sherertz T. “HPV Subtyping of Cervical Cancer in Cambodia,” ICEC Young Investigators’ Conference: Pioneering Action for Global Cancer Care; Washington D.C. (2019). (Poster presented by Sherertz T.)\nGardner J.E., Giattino C.M., Roberts K.C., Sbahi F.M., Berger M., & Woldorff M.G. “Analyzing Intraoperative EEG for Predictors of POCD and Delirium” Duke Center for the Study of Aging and Human Development Research & Education Retreat; Durham, NC (2017). (Poster presented by Gardner, J.E.)\nGardner J.E., Giattino C.M., Roberts K.C., Sbahi F.M., Berger M., & Woldorff M.G. “Intraoperative EEG Correlates of Pre- & Postoperative Cognitive Function” Cognitive Neuroscience Society Annual Meeting; San Francisco, CA (2017). (Poster presented by Gardner, J.E.)\nGardner J.E., Giattino C.M., Roberts K.C., Sbahi F.M., Berger M., & Woldorff M.G. “Intraoperative EEG Correlates of Pre- & Postoperative Cognitive Function” Duke Center for the Study of Aging and Human Development Research & Education Retreat; Durham, NC (2016). (Poster presented by Gardner, J.E.)"
@@ -49,17 +49,31 @@
     "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
   },
   {
-    "objectID": "updates/index.html",
-    "href": "updates/index.html",
-    "title": "News & Updates",
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Curriculum vitae",
     "section": "",
-    "text": "I will be delivering the Keynote Address at the Cambodian Association of Oral and Maxillofacial Surgeons (CAOMS) & Dental Implant Society of Cambodia (DISC) 1st Joint Conference in Phnom Penh, Cambodia from June 13th to 14th 2024. The topic of my presentation will be “The Detection of Human Papillomavirus in Oral Squamous Cell Carcinoma.”\nAfter the conference has concluded, I will update this page to make the slidedeck from my presentation available to view and download."
+    "text": "Download current CV"
   },
   {
-    "objectID": "updates/index.html#caoms---disc-1st-joint-conference",
-    "href": "updates/index.html#caoms---disc-1st-joint-conference",
+    "objectID": "talks/index_talks.html",
+    "href": "talks/index_talks.html",
+    "title": "Oral Presentations",
+    "section": "",
+    "text": "Gardner J.E. “Research Proposal: HPV Infection among Cambodian Patients with Head & Neck Squamous Cell Carcinoma” [Keynote Address], Cambodian Association of Oral and Maxillofacial Surgeons & Dental Implant Society of Cambodia 1st Joint Conference; Phnom Penh, Cambodia (2024).\n\n\n\n\n  \n     Download Presentation Slides"
+  },
+  {
+    "objectID": "updates/index_updates.html",
+    "href": "updates/index_updates.html",
     "title": "News & Updates",
     "section": "",
-    "text": "I will be delivering the Keynote Address at the Cambodian Association of Oral and Maxillofacial Surgeons (CAOMS) & Dental Implant Society of Cambodia (DISC) 1st Joint Conference in Phnom Penh, Cambodia from June 13th to 14th 2024. The topic of my presentation will be “The Detection of Human Papillomavirus in Oral Squamous Cell Carcinoma.”\nAfter the conference has concluded, I will update this page to make the slidedeck from my presentation available to view and download."
+    "text": "I will be delivering the Keynote Address at the Cambodian Association of Oral and Maxillofacial Surgeons (CAOMS) & Dental Implant Society of Cambodia (DISC) 1st Joint Conference in Phnom Penh, Cambodia from June 13th to 14th 2024. The topic of my presentation will be “The Detection of Human Papillomavirus in Oral Squamous Cell Carcinoma.”"
+  },
+  {
+    "objectID": "updates/index_updates.html#caoms---disc-1st-joint-conference",
+    "href": "updates/index_updates.html#caoms---disc-1st-joint-conference",
+    "title": "News & Updates",
+    "section": "",
+    "text": "I will be delivering the Keynote Address at the Cambodian Association of Oral and Maxillofacial Surgeons (CAOMS) & Dental Implant Society of Cambodia (DISC) 1st Joint Conference in Phnom Penh, Cambodia from June 13th to 14th 2024. The topic of my presentation will be “The Detection of Human Papillomavirus in Oral Squamous Cell Carcinoma.”"
   }
 ]
